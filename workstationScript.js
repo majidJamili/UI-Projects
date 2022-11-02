@@ -1,4 +1,15 @@
 
+// var tasksColors = document.getElementsByClassName('task-type-success'); 
+
+
+// tasksColors.forEach(task => {
+//         task.style.background = 'red'; 
+
+// });
+
+document.body.style.backgroundColor = "red";
+
+
 
 function dragStart(e){
     this.style.opacity = '0.4';
