@@ -6,8 +6,11 @@
 //         task.style.background = 'red'; 
 
 // });
+// window.addEventListener('load', (e)=>{
+//     e.preventDefault; 
+//     document.body.style.backgroundColor ='red'; 
+// })
 
-document.body.style.backgroundColor = "red";
 
 
 
