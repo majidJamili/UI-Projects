@@ -360,3 +360,12 @@ body {
   ::-webkit-scrollbar-thumb:hover {
     background: #555; 
   }
+
+  @media (max-width:500px) and (orientation:landscape){
+    body {
+        color: black;
+        background-color: yellow;
+    
+    }
+
+  }
